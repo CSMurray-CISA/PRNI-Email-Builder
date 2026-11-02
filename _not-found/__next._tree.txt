@@ -1,2 +1,2 @@
-:HL["_next/static/chunks/0lcppm_.x698g.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"R6fxQp2CG-NPH38pRXEke"}
+:HL["/PRNI-Email-Builder/_next/static/chunks/022~er9ruur-9.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"69zUUefRuAAHwPKFo_xZc"}
